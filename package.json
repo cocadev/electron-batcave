@@ -4,16 +4,9 @@
   "version": "1.0.0",
   "description": "Batcave is an chat application desktop app based on Electron.",
   "main": "main.js",
-  "author": "Hitesh Balar <www.hiteshbalar.com>",
-  "contributors": [
-    {
-      "name": "Hitesh Balar",
-      "email": "hsbalar@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hsbalar/batcave.git"
+    "url": "git://github.com/kingofdevs/electron-batcave.git"
   },
   "scripts": {
     "start": "node start-electron.js",
