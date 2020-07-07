@@ -6,8 +6,7 @@
 Experience smooth texting in the dark environment with a classy batcave desktop app electron based on a cool dark theme. Just simple with coloured chat bubbles. Feel free to tell me any suggestions, or let me know about any issues. Enjoy!
 
 ### Screenshot
-
-![screenshot](https://raw.githubusercontent.com/hsbalar/batcave/master/public/images/screen.png)
+<img src="batcave.png">
 <br>
 
 
@@ -16,7 +15,7 @@ Experience smooth texting in the dark environment with a classy batcave desktop 
 ## Clone
 
 ```
-$ git clone https://github.com/hsbalar/batcave
+$ git clone https://github.com/kingofdevs/electron-batcave
 $ cd batcave
 ```
 
@@ -50,11 +49,5 @@ $ npm start
 - [socket.io-client](http://socket.io/) for live chat.
 - [angular.io](https://angular.io/) for UI.
 - [ngx-uploader](http://ng2-uploader.com/) for image upload.
-
-### Download
-
-[Download](https://github.com/hsbalar/batcave/releases) Batcave desktop application for Windows, MacOS and Linux.
-
-#### License
 
 MIT
